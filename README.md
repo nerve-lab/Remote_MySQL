@@ -8,4 +8,4 @@ and you should install the module `MySQLdb`
 ## Run
 do not forget to configure the parameter passed to the class to make a successful connection with the remote database
 to run the script<br>
-'python mysqlclass.py' 
+`python mysqlclass.py`
